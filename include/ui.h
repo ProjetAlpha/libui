@@ -13,6 +13,7 @@
 # include "ui_btn.h"
 # include "ui_image.h"
 # include "ui_draw.h"
+# include "ui_modal.h"
 
 int		ui_init(Uint32 sdl_flags, Uint32 image_flags);
 
